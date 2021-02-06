@@ -2,7 +2,7 @@
   "name": "AngendaEndocirurgia",
   "short_name": "Angenda",
   "description": "Acompnhamento procedimentos Endocirurgia",
-  "start_url": "/",
+  "start_url": "./",
   "icons": [{
     "src": "assets/icons/android-chrome-192x192.png",
     "sizes": "192x192",
@@ -16,7 +16,7 @@
     "sizes": "180x180",
     "type": "image/png"
   }],
-  "scope": "/",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "orientation": "portrait",

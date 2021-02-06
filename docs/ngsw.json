@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612647099348,
+  "timestamp": 1612647891400,
   "index": "https://wesleypaulino.github.io/pwa-agenda/index.html",
   "assetGroups": [
     {
@@ -82,7 +82,7 @@
     "https://wesleypaulino.github.io/pwa-agenda/favicon.ico": "64dbf63e3c221ef36802668de7e88bad8187decc",
     "https://wesleypaulino.github.io/pwa-agenda/index.html": "aff870341aa6df5ef3833925bca1e5b18d99042b",
     "https://wesleypaulino.github.io/pwa-agenda/main.44b5e07e0409301e2c85.js": "16b6baae6701bbe505c201ce0e59b3387174fa8b",
-    "https://wesleypaulino.github.io/pwa-agenda/manifest.webmanifest": "0e02cb7cf916ca7ceaabec24ae7e6017400ec2b2",
+    "https://wesleypaulino.github.io/pwa-agenda/manifest.webmanifest": "47ccfeee0cc9c4e07ebd65a643acee09b5d6670c",
     "https://wesleypaulino.github.io/pwa-agenda/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://wesleypaulino.github.io/pwa-agenda/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://wesleypaulino.github.io/pwa-agenda/styles.511c47d6d099368fb8b4.css": "f7b7e3bc5642549f6800a23a347f16f75ae511ea"
