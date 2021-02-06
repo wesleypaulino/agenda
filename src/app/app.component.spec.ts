@@ -16,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'pwa-agenda'`, () => {
+  it(`should have as title 'pwa-endosurgery'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('pwa-agenda');
+    expect(app.title).toEqual('pwa-endosurgery');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('pwa-agenda app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('pwa-endosurgery app is running!');
   });
 });

@@ -1,4 +1,4 @@
-{
+teste{
   "extends": "tslint:recommended",
   "rulesDirectory": [
     "codelyzer"
